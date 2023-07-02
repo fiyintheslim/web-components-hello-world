@@ -1,0 +1,11 @@
+custom-element::part(yoo) {
+  color: green;
+}
+
+:host {
+  background: red;
+}
+
+h3 {
+  color: purple;
+}
